@@ -8,7 +8,7 @@ controls are in the actual thing when you press E
 - bgs should be 480 x 360
   - yes i know theres a discrepancy. whatever.
  
-#notes
+# notes
 
 - this was made in scratch/turbowarp/penguinmod
 - if it feels janky thats because it is
